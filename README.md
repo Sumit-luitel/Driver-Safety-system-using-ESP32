@@ -1,2 +1,2 @@
 # Driver-Safety-system-using-ESP32
-Project using ESP32 to detect drivers condition.
+This project uses an ESP32 microcontroller to enhance driver safety with real-time monitoring and alerts. It integrates an ultrasonic sensor for obstacle detection, an IR sensor to monitor driver fatigue, and an alcohol sensor for sobriety checks. The system provides alerts via an LCD display, buzzer, and speaker, and uses a relay to control a motor simulating a vehicle’s response. IoT features via the ThingsBoard platform enable remote monitoring for additional safety insights.
